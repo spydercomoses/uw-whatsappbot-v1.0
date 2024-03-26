@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94761192103'] //ur owner number
-global.ownernomer = "94761192103" //ur owner number2
-global.ownername = "📌 𝚄𝙳𝙰𝚅𝙸𝙽 " //ur owner name
+global.owner = ['254768510396'] //ur owner number
+global.ownernomer = "254103551055" //ur owner number2
+global.ownername = "📌 BLACKHACKER " //ur owner name
 global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
-global.socialm = "Insta: UDavin Wijesundara" //ur github or insta name
-global.location = "Srilanka" //ur location
+global.socialm = "Insta: spensermemes" //ur github or insta name
+global.location = "kenya" //ur location
 
 //new
 global.botname = "𝘜𝘞 𝘛𝘌𝘊𝘏 𝘚𝘏𝘖𝘞 𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘉𝘖𝘛 𝘝 1.0"
-global.ownernumber = '94761192103'
-global.ownername = '📌 𝚄𝙳𝙰𝚅𝙸𝙽'
-global.ownerNumber = ["94761192103@s.whatsapp.net"]
-global.ownerweb = "https://www.youtube.com/@uwtechshow"
-global.websitex = "https://www.youtube.com/@uwtechshow"
+global.ownernumber = '254768610396'
+global.ownername = '📌 BLACKHACKER'
+global.ownerNumber = ["254768510396@s.whatsapp.net"]
+global.ownerweb = "https://www.youtube.com/channel/UC7OAPTnxyJU1U93accAIwtA"
+global.websitex = "https://www.youtube.com/channel/UC7OAPTnxyJU1U93accAIwtA"
 global.wagc = "https://chat.whatsapp.com/Jx2dvOAzNaO3vm5bwVglyC"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/uwtechshow-official/uw-whatsappbot-v1.0' //script link
-global.packname = "Sticker By UW TECH SHOW BOT"
-global.author = "📌 𝚄𝙳𝙰𝚅𝙸𝙽\n\n"
-global.creator = "94761192103@s.whatsapp.net"
+global.botscript = 'https://github.com/spydercomoses/uw-whatsappbot-v1.0' //script link
+global.packname = "Sticker By BLACKHACKER BOT"
+global.author = "📌 blackhacker\n\n"
+global.creator = "254768510396@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
